@@ -22,8 +22,8 @@ HOBBIES = {
 **********************
 
 @contact
-email = "mod.hamza@proton.me"
-discord = "_ha.mz4_"
-linkedin = "hamz4"
+EMAIL = "mod.hamza@proton.me"
+DISCORD = "_ha.mz4_"
+LINKEDIN = "hamz4"
 
 ```
