@@ -1,16 +1,29 @@
-## Hi there 👋
+```python
+@mhd-hamza
 
-<!--
-**mhd-hamza/mhd-hamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**********************
 
-Here are some ideas to get you started:
+OS = ["Windows 10", "Windows 11"]
+UPTIME = 17, 4
+HOST = "Credence High School"
+KERNEL = "Science Stream (Computer Science)"
+IDEs = ["Visual Studio Code", "JetBrains PyCharm"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LANGUAGES = {
+    "programming": ["Python"],
+    "real_life": ["English", "Hindi", "Urdu"]
+}
+
+HOBBIES = {
+    "software": ["Discord Bots", "Web Scraping", "Automation"],
+    "real_life": ["Football", "Calisthenics"]
+}
+
+**********************
+
+@contact
+email = "mod.hamza@proton.me"
+discord = "_ha.mz4_"
+linkedin = "hamz4"
+
+```
