@@ -4,7 +4,7 @@
 **********************
 
 OS = ["Windows 10", "Windows 11"]
-UPTIME = 17, 4
+UPTIME = "17 years"
 HOST = "Credence High School"
 KERNEL = "Science Stream (Computer Science)"
 IDEs = ["Visual Studio Code", "JetBrains PyCharm"]
